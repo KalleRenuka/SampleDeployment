@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: baalneanjali/tomcatsamplecode:1.0
+        image: kallerenuka/tomcat:2.0
         ports:
         - containerPort: 8080
